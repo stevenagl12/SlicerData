@@ -1,0 +1,127 @@
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Session start time .......: 2022-02-10 03:20:46
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Slicer version ...........: 4.13.0-2021-11-10 (revision 30391 / d581510) win-amd64 - installed release
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Operating system .........: Windows /  Personal / (Build 19044, Code Page 65001) - 64-bit
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Memory ...................: 16259 MB physical, 42883 MB virtual
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - CPU ......................: GenuineIntel , 8 cores, 8 logical processors
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - VTK configuration ........: OpenGL2 rendering, TBB threading
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Qt configuration .........: version 5.15.2, with SSL, requested OpenGL 3.2 (compatibility profile)
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Developer mode enabled ...: yes
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Application path .........: C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin
+[DEBUG][Qt] 10.02.2022 03:20:46 [] (unknown:0) - Additional module paths ..: NA-MIC/Extensions-30391, NA-MIC/Extensions-30391/Auto3dgm/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/Auto3dgm/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/Autoscroll/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/BoneThicknessMapping/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/BoneTextureExtension/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/BoneTextureExtension/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/MarkupsToModel/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SurfaceWrapSolidify/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/BoneReconstructionPlanner/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/Sandbox/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/Sandbox/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/CMFreg/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/CMFreg/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerRT/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/SlicerRT/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SlicerRT/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/CurveMaker/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/DeepInfer/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/DebuggingTools/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/DatabaseInteractor/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/DICOMwebBrowser/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/DCMQI/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/EasyClip/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/FiducialsToModelDistance/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/GeodesicSlicer/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/GraphCutSegment/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/GraphCutSegment/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/MeshStatisticsExtension/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/ModelToModelDistance/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/MatlabBridge/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/MatlabBridge/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SlicerOpenIGTLink/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SlicerOpenIGTLink/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/MONAILabel/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/MeshToLabelMap/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/MFSDA/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/OpenCAD/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/Q3DC/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/PyTorch/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/PickAndPaintExtension/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SegmentMesher/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SegmentGeometry/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SegmentEditorExtraEffects/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SegmentEditorExtraEffects/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SegmentRegistration/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerProstate/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/SlicerProstate/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/ShapeQuantifier/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/ShapePopulationViewer/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/ShapeVariationAnalyzer/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/ShapeVariationAnalyzer/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerCMF/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/AnglePlanesExtension/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerANTs/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/SlicerANTs/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/Slicer-Wasp/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerDevelopmentToolbox/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerCochlea/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerElastix/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerJupyter/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SlicerJupyter/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerDcm2nii/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/RawImageGuess/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerMorph/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerIGT/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SlicerIGT/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerOpenCV/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/SlicerOpenAnatomy/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerRadiomics/lib/Slicer-4.13/cli-modules, NA-MIC/Extensions-30391/SlicerRadiomics/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/TOMAAT/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/VolumeClip/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/VASSTAlgorithms/lib/Slicer-4.13/qt-loadable-modules, NA-MIC/Extensions-30391/TorchIO/lib/Slicer-4.13/qt-scripted-modules, NA-MIC/Extensions-30391/user_specifications, NA-MIC/Extensions-30391/user_specifications/lib/Slicer-4.11/qt-scripted-modules, NA-MIC/Extensions-30391/SlicerData/lib/Slicer-4.13/qt-scripted-modules, C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/MatlabModules
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) - Traceback (most recent call last):
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -   File "<string>", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -   File "C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Python\Lib\imp.py", line 170, in load_source
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -     module = _exec(spec, sys.modules[name])
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 618, in _exec
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -   File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -   File "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/BoneTextureExtension/lib/Slicer-4.13/qt-scripted-modules/BoneTexture.py", line 9, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) -     from LabelStatistics import LabelStatisticsLogic
+[CRITICAL][Stream] 10.02.2022 03:20:49 [] (unknown:0) - ModuleNotFoundError: No module named 'LabelStatistics'
+[CRITICAL][Qt] 10.02.2022 03:20:49 [] (unknown:0) - loadSourceAsModule - Failed to load file "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/BoneTextureExtension/lib/Slicer-4.13/qt-scripted-modules/BoneTexture.py"  as module "BoneTexture" !
+[CRITICAL][Qt] 10.02.2022 03:20:49 [] (unknown:0) - Fail to instantiate module  "BoneTexture"
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) - Traceback (most recent call last):
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<string>", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Python\Lib\imp.py", line 170, in load_source
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -     module = _exec(spec, sys.modules[name])
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 618, in _exec
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/DatabaseInteractor/lib/Slicer-4.13/qt-scripted-modules/DatabaseInteractor.py", line 7, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -     from urlparse import urlparse
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) - ModuleNotFoundError: No module named 'urlparse'
+[CRITICAL][Qt] 10.02.2022 03:20:50 [] (unknown:0) - loadSourceAsModule - Failed to load file "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/DatabaseInteractor/lib/Slicer-4.13/qt-scripted-modules/DatabaseInteractor.py"  as module "DatabaseInteractor" !
+[CRITICAL][Qt] 10.02.2022 03:20:50 [] (unknown:0) - Fail to instantiate module  "DatabaseInteractor"
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) - Traceback (most recent call last):
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<string>", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Python\Lib\imp.py", line 170, in load_source
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -     module = _exec(spec, sys.modules[name])
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 618, in _exec
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -   File "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/DeepInfer/lib/Slicer-4.13/qt-scripted-modules/DeepInfer.py", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) -     import Queue
+[CRITICAL][Stream] 10.02.2022 03:20:50 [] (unknown:0) - ModuleNotFoundError: No module named 'Queue'
+[CRITICAL][Qt] 10.02.2022 03:20:50 [] (unknown:0) - loadSourceAsModule - Failed to load file "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/DeepInfer/lib/Slicer-4.13/qt-scripted-modules/DeepInfer.py"  as module "DeepInfer" !
+[CRITICAL][Qt] 10.02.2022 03:20:50 [] (unknown:0) - Fail to instantiate module  "DeepInfer"
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) - Traceback (most recent call last):
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "<string>", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Python\Lib\imp.py", line 170, in load_source
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -     module = _exec(spec, sys.modules[name])
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 618, in _exec
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/OpenCAD/lib/Slicer-4.13/qt-scripted-modules/HeterogeneityCAD.py", line 10, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -     import FeatureExtractionLib
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -   File "C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\NA-MIC\Extensions-30391\OpenCAD\lib\Slicer-4.13\qt-scripted-modules\FeatureExtractionLib\__init__.py", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) -     from NodeInformation import*
+[CRITICAL][Stream] 10.02.2022 03:20:51 [] (unknown:0) - ModuleNotFoundError: No module named 'NodeInformation'
+[CRITICAL][Qt] 10.02.2022 03:20:51 [] (unknown:0) - loadSourceAsModule - Failed to load file "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/OpenCAD/lib/Slicer-4.13/qt-scripted-modules/HeterogeneityCAD.py"  as module "HeterogeneityCAD" !
+[CRITICAL][Qt] 10.02.2022 03:20:51 [] (unknown:0) - Fail to instantiate module  "HeterogeneityCAD"
+[WARNING][Qt] 10.02.2022 03:20:51 [] (unknown:0) - libpng warning: iCCP: profile 'ICC Profile': 'CMYK': invalid ICC profile color space
+[WARNING][Qt] 10.02.2022 03:20:52 [] (unknown:0) - libpng warning: iCCP: known incorrect sRGB profile
+[WARNING][Qt] 10.02.2022 03:20:53 [] (unknown:0) - libpng warning: iCCP: known incorrect sRGB profile
+[INFO][Stream] 10.02.2022 03:20:53 [] (unknown:0) - TODO: implement cloud fingerprint store
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) - Traceback (most recent call last):
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -   File "<string>", line 1, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -   File "C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Python\Lib\imp.py", line 170, in load_source
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -     module = _exec(spec, sys.modules[name])
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 618, in _exec
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -   File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -   File "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/Slicer-Wasp/lib/Slicer-4.13/qt-scripted-modules/Wasp.py", line 19, in <module>
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) -     import Queue
+[CRITICAL][Stream] 10.02.2022 03:20:53 [] (unknown:0) - ModuleNotFoundError: No module named 'Queue'
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) - loadSourceAsModule - Failed to load file "C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/Slicer-Wasp/lib/Slicer-4.13/qt-scripted-modules/Wasp.py"  as module "Wasp" !
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) - Fail to instantiate module  "Wasp"
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) - The following modules failed to be instantiated:
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) -    Wasp
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) -    BoneTexture
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) -    HeterogeneityCAD
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) -    DeepInfer
+[CRITICAL][Qt] 10.02.2022 03:20:53 [] (unknown:0) -    DatabaseInteractor
+[DEBUG][Python] 10.02.2022 03:20:56 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:36) - Scripted subject hierarchy plugin registered: Annotations
+[INFO][Stream] 10.02.2022 03:20:59 [] (unknown:0) - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[DEBUG][Qt] 10.02.2022 03:20:59 [] (unknown:0) - Matlab executable found on system at D:\Redirects\MATLAB\bin\matlab.exe
+[DEBUG][Python] 10.02.2022 03:21:00 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:36) - Scripted subject hierarchy plugin registered: SegmentEditor
+[DEBUG][Python] 10.02.2022 03:21:00 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:36) - Scripted subject hierarchy plugin registered: SegmentStatistics
+[DEBUG][Python] 10.02.2022 03:21:02 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:36) - Scripted subject hierarchy plugin registered: ExportAs
+[DEBUG][Python] 10.02.2022 03:21:02 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:36) - Scripted subject hierarchy plugin registered: FormatMarkups
+[DEBUG][Python] 10.02.2022 03:21:02 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:176) - Starting storescp process
+[DEBUG][Python] 10.02.2022 03:21:02 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:73) - ('Starting C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../bin\\storescp.exe with ', ['11112', '--accept-all', '--output-directory', 'D:/Redirects/Documents/SlicerDICOMDatabase_1/incoming', '--exec-sync', '--exec-on-reception', 'C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../bin\\dcmdump.exe --load-short --print-short --print-filename --search PatientName "D:/Redirects/Documents/SlicerDICOMDatabase_1/incoming/#f"'])
+[DEBUG][Python] 10.02.2022 03:21:02 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:77) - Process C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../bin\storescp.exe now in state Starting
+[DEBUG][Python] 10.02.2022 03:21:02 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:77) - Process C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../bin\storescp.exe now in state Running
+[INFO][Python] 10.02.2022 03:21:02 [Python] (C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../lib/Slicer-4.13/qt-scripted-modules/DICOM.py:212) - DICOM C-Store SCP service started at port 11112
+[DEBUG][Qt] 10.02.2022 03:21:01 [] (unknown:0) - Switch to module:  "Welcome"
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - OnMRMLSceneNodeAdded()
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - setEditorParamNode()
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - 000001B93C532910::1
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - setEditorParamNode()END
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - OnMRMLSceneNodeAdded()
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - setEditorParamNode()
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - 000001B93C532910::2
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - setEditorParamNode()END
+[INFO][Stream] 10.02.2022 03:21:02 [] (unknown:0) - DICOM C-Store SCP service started at port 11112
+[DEBUG][Qt] 10.02.2022 03:21:07 [] (unknown:0) - Switch to module:  "Data"
+[DEBUG][Qt] 10.02.2022 03:21:12 [] (unknown:0) - Switch to module:  "Slicerscript_CallingNumpyFile"
+[CRITICAL][Stream] 10.02.2022 03:21:12 [] (unknown:0) - PythonQt: QObject::connect() signal 'validInputChanged(bool)' does not exist on ctkDirectoryButton
+[INFO][Python] 10.02.2022 03:21:42 [Python] (C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/NA-MIC/Extensions-30391/SlicerData/lib/Slicer-4.13/qt-scripted-modules/Slicerscript_CallingNumpyFile.py:182) - Processing complete
+[INFO][Stream] 10.02.2022 03:21:34 [] (unknown:0) - ['label_volume13316.npz', 'label_volume13426.npz', 'label_volume13456.npz', 'output_volume13316.npz', 'output_volume13426.npz', 'output_volume13456.npz']
+[INFO][Stream] 10.02.2022 03:21:34 [] (unknown:0) - label_volume13316.npz
+[INFO][Stream] 10.02.2022 03:21:41 [] (unknown:0) - OnMRMLSceneNodeAdded()
+[INFO][Stream] 10.02.2022 03:21:41 [] (unknown:0) - setEditorParamNode()
+[INFO][Stream] 10.02.2022 03:21:41 [] (unknown:0) - 000001B93C532910::2
+[INFO][Stream] 10.02.2022 03:21:41 [] (unknown:0) - setEditorParamNode()END
+[INFO][Stream] 10.02.2022 03:21:42 [] (unknown:0) - Processing complete
+[DEBUG][Qt] 10.02.2022 03:22:50 [] (unknown:0) - Switch to module:  "Data"
+[INFO][Stream] 10.02.2022 03:22:51 [] (unknown:0) - OnMRMLSceneNodeAdded()
+[INFO][Stream] 10.02.2022 03:22:51 [] (unknown:0) - setEditorParamNode()
+[INFO][Stream] 10.02.2022 03:22:51 [] (unknown:0) - 000001B93C532910::2
+[INFO][Stream] 10.02.2022 03:22:51 [] (unknown:0) - setEditorParamNode()END
+[DEBUG][Qt] 10.02.2022 03:22:59 [] (unknown:0) - Switch to module:  ""
+[INFO][Python] 10.02.2022 03:22:59 [Python] (C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../lib/Slicer-4.13/qt-scripted-modules/DICOM.py:216) - DICOM C-Store SCP service stopping
+[DEBUG][Python] 10.02.2022 03:22:59 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:90) - stopping DICOM process
+[DEBUG][Python] 10.02.2022 03:22:59 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:77) - Process C:/Users/Steven Lewis/AppData/Local/NA-MIC/Slicer 4.13.0-2021-11-10/bin/../bin\storescp.exe now in state NotRunning
+[DEBUG][Python] 10.02.2022 03:22:59 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:81) - DICOM process error code is: 1
+[DEBUG][Python] 10.02.2022 03:22:59 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:82) - DICOM process standard out is: b''
+[DEBUG][Python] 10.02.2022 03:22:59 [Python] (C:\Users\Steven Lewis\AppData\Local\NA-MIC\Slicer 4.13.0-2021-11-10\lib\Slicer-4.13\qt-scripted-modules\DICOMLib\DICOMProcesses.py:83) - DICOM process standard error is: b''
